@@ -1,0 +1,15 @@
+name: Man10MiniGame
+version: '1.0'
+main: yusama125718.man10MiniGame.Man10MiniGame
+api-version: '1.20'
+
+commands:
+  mmg:
+    description: Man10MiniGame
+    usage: /mmg helpでコマンドを確認
+
+permissions:
+  mmg.op:
+    default: op
+  mmg.p:
+    default: true
